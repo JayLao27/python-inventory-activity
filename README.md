@@ -7,10 +7,10 @@
 This activity requires creating a simple inventory system using lists and dictionaries in Python.
 
 ## Sample output
-![Expected Result](images/result_expected.png)
+![Expected Result](Image/result_expected.png)
 
 ## Author
 ``Jay III S. Lao``
 
 ## Screenshot of running program
-![Actual Result](images/result_actual.png)
+![Actual Result](Image/result_actual.png)
